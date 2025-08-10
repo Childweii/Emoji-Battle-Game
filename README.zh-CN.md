@@ -6,7 +6,7 @@
 
 一个超轻量的 Canvas 小场地：两位表情选手自动移动、互相碰撞、捡取道具，把对手的 HP 打到 0 即获胜。移动端友好，无需构建，打开即玩。
 
-> 扩展版本：[Vavtar Ver.](https://github.com/Childweii/Avatar-Battle-Game/) | [▶ Play Now](https://childweii.github.io/Avatar-Battle-Game/)
+> 扩展版本：[Vavtar Ver.](https://github.com/Childweii/Avatar-Battle-Game/) | [▶ 立即游玩](https://childweii.github.io/Avatar-Battle-Game/)
 
 ---
 
