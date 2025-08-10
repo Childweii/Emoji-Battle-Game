@@ -6,6 +6,8 @@
 
 A tiny canvas arena where two emoji fighters auto-bounce around, pick up items, and try to knock each other to 0 HP. Mobile-friendly, no build step, just open and play.
 
+> Other Version：[Vavtar Ver.](https://github.com/Childweii/Avatar-Battle-Game/) | [▶ Play Now](https://childweii.github.io/Avatar-Battle-Game/)
+
 ---
 
 ## Features
